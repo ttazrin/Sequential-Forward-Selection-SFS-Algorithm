@@ -1,0 +1,4 @@
+i)   A program to implement sequential forward selection(SFS) algorithm to identify important features.
+ii)  The program implements a wrapper approach with sequential forward selection strategy to find a set of important features. 
+iii) Random forest is used for measuring the performance (accuracy) in the wrapper approach. 
+iv)  Stratified 5-fold cross validation is implemented from scratch for measuring accuracy. The program keeps adding the features as long        as there is some improvement in the classification accuracy.
